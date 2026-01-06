@@ -7,6 +7,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'SGA',
+			logo: {
+				light: './src/assets/logodark.svg',
+				dark: './src/assets/logodark.svg',
+			},
 			// social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
