@@ -97,7 +97,7 @@ The SMGA has a point of emphasis on pace of play.  As a group we strive to compl
 
 5.6b recommendation - Be prepared to make a stroke, make a stroke within 40 seconds if not faster
 
-<a href="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/1918791248001/2e62c03a-8035-4735-a09d-cf0106cd6874/10s/master.m3u8?fastly_token=NjgwYTk4M2FfMzI1NjkzOWFkYmUzZTI5MzYzYjNjMGFhYzg4NmM0MWE4Y2MxNzVkZThmNzI0ODFlNzdkOTQ4ODA3ZDQ0MjIxZA%3D%3D" class="button">Pace of play</a>
+<a href="https://www.usga.org/content/usga/home-page/rules-hub/rules-modernization/major-changes/encouraging-prompt-pace-of-play.html" class="button">Pace of play</a>
 
 
 
@@ -155,7 +155,8 @@ Option 2 - Player suspects lost or out of bounds off of the tee and opts for the
 
 
 See this brief video for an explanation:
-<a href="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/1918791248001/ca1b4613-d085-4e22-a449-b37697b9a88a/10s/master.m3u8?fastly_token=NjgwYTlhMTBfZGQzN2M4YzFjNjViMDZlNmNjMTQ5ZjliOTFlOTc3ZjE4MWE3ZTM0Nzk0ZGQ1Zjg2OTI2YTc3YmJiMWE3NzE0OA%3D%3D" class="button">Local rule OB / Lost ball</a>
+<a href="https://www.youtube.com/watch?v=zE0hnxQ1PJs" class="button">Local rule OB / Lost ball</a>
+
 
 
 
