@@ -20,6 +20,7 @@ description: A reference page for handicaps
 * If less than 20 total scores see:  <a href="https://www.usga.org/content/usga/home-page/handicapping/world-handicap-system/topics/handicap-index-calculation.html" class="button">Less than 20</a>
 * Course Handicap=(Handicap Index x (Slope Rating/113)) + (Course Rating – Par)
 * Hills green tees slope rating is 128 and course rating is 67.9.  Par is 72.
+* Hills green/red combo slope is 121 and course rating is 67.1.  Par is 72.
 
 ## Clubs of Prestonwood Handicap Committee & Guidelines
 See the club website under the "golf tab" for information about our club's handicap committee.
