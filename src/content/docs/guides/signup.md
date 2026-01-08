@@ -9,7 +9,7 @@ The Hills SGA is a golf association organized for senior golf playdays.  The gro
 * Must be 55+ years of age
 * Must have an established USGA handicap (GHIN)
 * We can work with you to establish a handicap if you do not have one
-* Dues of $60 added to your bill once a year
+* Dues of $70 added to your bill once a year
 
 #### How to Join:
 * Contact the pro shop and they can assist with adding you to the group within Golf Genius

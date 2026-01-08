@@ -49,7 +49,7 @@ You may play the **Blue Tees** as long as you inform the Pro Shop or Game Day Ma
 
 80+ years of age: 
 
-You may choose to play the forward Red Tees.  If Red Tees are chosen you must inform the Pro Shop or Game Day Manager when you sign up prior to play.
+You may choose to play the Red/Green Tees.  If Red/Green combo Tees are chosen you must inform the Pro Shop or Game Day Manager when you sign up prior to play, so the correct tees are selected for you in Golf Genius.
 
 Moveable objects & Abnormal conditions (objects or conditions that interfere with play):
 See the following short videos for clarification:
