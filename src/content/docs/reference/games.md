@@ -30,3 +30,10 @@ Team Game. The average of all-players net scores on each hole count towards the 
 
 ### Match Play: 
 a form of play where a player (or players) plays directly against an opponent (or opponents) in a head-to-head match. You win a hole by completing it in the fewest number of strokes, and you win a match when you are winning by more holes than remain to be played.
+
+### 6/6/6:
+Teams will play 3 formats during the round:
+6 holes of best ball (lowest net)
+6 holes of combined (net scores combined)
+6 holes of alternate shot (teammates alternate playing a single ball)
+
