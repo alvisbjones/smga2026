@@ -79,7 +79,7 @@ We play under the "Handicap competition rules".
 HANDICAPS:
 
 All SMGA Members are governed by the rules and expectations of The Clubs of Prestonwood Handicap Committee to responsibly and accurately maintain their Handicap.
-All SMGA rounds (Monday, Friday, Tournaments) conducted using Golf Genius will automatically upload your score into GHIN.  Non SGA play should also be recorded into GHIN as governed by the Prestonwood Handicap Committee.
+All SMGA rounds (Monday, Friday, Tournaments) conducted using Golf Genius will automatically upload your score into GHIN.  Non SMGA play should also be recorded into GHIN as governed by the Prestonwood Handicap Committee.
 
 ### Rule 4 - The Player's equipment
 Player must use conforming clubs and balls, and is limited to no more than 14 clubs.
