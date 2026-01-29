@@ -6,7 +6,7 @@ description: A reference page for handicaps
 ## Handicap procedures and info:
 
 * SMGA members must have a USGA GHIN (Golf Handicap and Information Network) membership through the Hills pro shop.
-* A $5/month fee is assessed each member for administrative costs by Prestonwood.
+* A $6.50/month fee is assessed each member for administrative costs by Prestonwood.
 * All rounds must be entered into GHIN ASAP, before midnight, on the day of play whether at home or away.  This includes all personal rounds as well as SMGA play days and tournaments.
 * This includes 9 hole rounds (7 holes minimum) and 18 hole (14 hole minimum).  Unplayed holes will be scored as par plus whatever handicap strokes player is entitled to on said hole(s).
 * Entering scores hole by hole is preferred.
